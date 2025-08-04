@@ -1,0 +1,2 @@
+# RyokuryunekoSMP
+RyokuryunekoSMP-Web
