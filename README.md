@@ -1,5 +1,6 @@
 # RyokuryunekoSMP
 RyokuryunekoSMP-Web
+https://ryokuryuneko.top/RyokuryunekoSMP/
 
  
 
